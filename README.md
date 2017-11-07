@@ -19,6 +19,11 @@ ng set --global packageManager=yarn
 Create a new project:
 ng new poto-angular4
 
+Run the project:
+npm start
+or
+ng serve
+
 After pull from the repository:
 yarn
 
